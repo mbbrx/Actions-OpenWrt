@@ -17,4 +17,4 @@
 #git clone https://github.com/kenzok8/openwrt-packages package/openwrt-packages
 #git clone https://github.com/jerrykuku/luci-theme-argon package/luci-theme-argon
 #git clone -b packages-19.07 https://github.com/liuran001/openwrt-packages
-git clone https://github.com/liuran001/openwrt-packages
+#git clone https://github.com/liuran001/openwrt-packages
